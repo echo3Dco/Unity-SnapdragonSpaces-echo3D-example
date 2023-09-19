@@ -22,3 +22,5 @@ Simply press the _Play_ button in Unity.
 ## Screenshots
 ![echo3D Models](/Screenshots/echo3D-console.png)
 ![echo3D Additional Data](/Screenshots/echo3D-additional%20data.png)
+![Unity screenshots 1](/Screenshots/Snapshot_59.PNG)
+![Unity screenshots 2](/Screenshots/Snapshot_60.PNG)
