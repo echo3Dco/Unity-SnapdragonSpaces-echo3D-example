@@ -13,7 +13,6 @@ To see how echo3D works with the Spaces Unity SDK, you can either clone this pro
 * [Add the metadata](https://docs.echo3D.co/web-console/manage-pages/data-page/how-to-add-data#adding-metadata). You can use the data files in our [_Data_ folder](/Data/)
 * [Install the echo3D Unity SDK](https://docs.echo3D.co/unity/installation).
 * [Set the API key](https://docs.echo3D.co/unity/using-the-sdk) in the Inspector of the echo3D game object. In the tags filed, write "handTracking".
-* Overwrite the existing _HandTrackingSampleController.cs_ with the one [on in this repo](/Assets/Samples/Snapdragon%20Spaces/0.7.0/Core%20Samples/Scenes/Hand%20Tracking%20Sample/Scripts/HandTrackingSampleController.cs).
 * Disable the Mirror and Player objects in your unity scene.<br>
 ![Mirror Disable](/Screenshots/Unity-spaces%20sample-%20no%20models.png)
 
